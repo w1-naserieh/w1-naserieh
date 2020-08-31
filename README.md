@@ -8,12 +8,12 @@ My name is Hasib, I'm a 19 year old software developer working on various automa
 - SQL
 - MongoDB
 
-#### Devops 🤓
+#### Devops ⚡️
 - Pycharm
 - Github
 
-### Portfolio 📄
-View my past work and experience at [hasib.dev](https://www.hasib.dev).
+### Portfolio 📌
+View my past work on [hasib.dev](https://www.hasib.dev).
 
 <!--
 **w1-naserieh/w1-naserieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
