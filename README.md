@@ -6,6 +6,7 @@ My name is Hasib, I'm a 19 year old software developer working on various automa
 - Python 
 - SQL
 - NoSQL
+- Flask ⌛
 - Laravel ⌛
 - Docker ⌛
 
